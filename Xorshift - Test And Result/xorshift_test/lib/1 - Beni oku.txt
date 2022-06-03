@@ -1,0 +1,16 @@
+Uygulama dart dili ile yazıldı.
+Xorshiftrotate ile rastgele sayı üreteci oluşturuldu.
+Ardından AES şifreleme ile üretilen rastgele sayı şifrelendi.
+
+Ana proje kodları xorshift_random.dart dosyasıdır.
+Uygulama tek başına çalışmayacaktır, Android Studio veya Visual Studio code ile tüm dizin açılmalı daha sonra xorshift_random.dart çalıştırılmalıdır.
+
+Kütüphane açık kaynak kodları verildi.
+
+Xorshift32
+Xorshift128+
+Xoshiro128++
+
+algoritmaları ile
+
+bool, double ve int türünde rastgele sayılar üretildi.
