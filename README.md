@@ -9,6 +9,7 @@
     <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">DES-AES şifreleme algoritması ile şifreleme &ouml;rneği</li>
     <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">RAMS ilkeleri</li>
     <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">Asans&ouml;r proje tanıtımı</li>
+    <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">NIST Test - Xorshift - Test And Result</li>
 
 </ul>
 <p><span style="font-family: Arial, Helvetica, sans-serif;">- Kadir G&Uuml;RB&Uuml;Z</span></p>
