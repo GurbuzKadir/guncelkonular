@@ -1,5 +1,4 @@
 <p><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 19px;"># Yazılım m&uuml;hendisliği g&uuml;ncel konular kapsamında hazırlanan proje dökümanları</span></strong></p>
-<p><span style="font-family: Arial, Helvetica, sans-serif;"><br></span></p>
 <ul>
     <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">:bookmark_tabs:	Proje &ouml;n sunum d&ouml;k&uuml;manı</li>
     <li style="font-family: Arial, Helvetica, sans-serif; font-size: 18px;">:bookmark_tabs:	Smart hedefler d&ouml;k&uuml;manı</li>
