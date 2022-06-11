@@ -1,16 +1,11 @@
 # xorshift
 
-A new Flutter project.
+Burada Xorshift random number generator(rastgele sayı üreteci) ile dart dilinde bir program oluşturulmuştur.
 
-## Getting Started
+Ne kadar rastgele olup olmadığının testini de NIST testi ile belirlenmesi işlemi uygulanmıştır.
+15 test yapıldı ve sonuçları paylaşıldı.
+<p align="left"> <a href="https://github.com/GurbuzKadir/guncelkonular/tree/main/Xorshift%20-%20Test%20And%20Result/xorshift_test_result" target="_blank" rel="noreferrer">NIST Testi Sonuçları</a>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Testler bu dosyalar içindeki random.txt ile yapıldı. Program tekrar çalıştırıldığında aynı dosyaya farklı kayıtlar oluşturulur.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
