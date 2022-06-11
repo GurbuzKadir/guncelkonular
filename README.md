@@ -1,4 +1,4 @@
-<p><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 19px;"># Yazılım m&uuml;hendisliği g&uuml;ncel konular kapsamında hazırlanan proje &ouml;n d&ouml;k&uuml;manı</span></strong></p>
+<p><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 19px;"># Yazılım m&uuml;hendisliği g&uuml;ncel konular kapsamında hazırlanan proje dökümları</span></strong></p>
 <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 19px;">Yazılım m&uuml;hendisliği g&uuml;ncel konular kapsamında hazırlanan proje &ouml;n d&ouml;k&uuml;manı</span></p>
 <p><span style="font-family: Arial, Helvetica, sans-serif;"><br></span></p>
 <ul>
